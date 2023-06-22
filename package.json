@@ -1,0 +1,11 @@
+{
+  "name": "project_burgher",
+  "version": "1.0.0",
+  "description": "Front de um burgher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
